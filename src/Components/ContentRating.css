@@ -1,11 +1,11 @@
 /* ImageRatingComponent.css */
 
 .content-rating {
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
+    justify-content: left;
     flex-direction: column;
   }
   
